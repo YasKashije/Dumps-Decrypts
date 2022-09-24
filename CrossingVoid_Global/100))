@@ -1,0 +1,1 @@
+return string.format("%.2f", math.abs(buffs[1].delta[0]/100))

@@ -1,0 +1,1 @@
+return string.format("%.2f", paramInt[2]/100)
